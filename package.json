@@ -1,0 +1,12 @@
+{
+  "name": "koa2-study",
+  "version": "1.0.0",
+  "description": "实现大概的koa2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luoanyang",
+  "license": "ISC"
+}
